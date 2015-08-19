@@ -1,6 +1,6 @@
 <?php
 
-namespace FOS\OAuth2ServiceBundle\Tests\DependencyInjection\Factory;
+namespace FOS\OAuthServerBundle\Tests\DependencyInjection\Security\Factory;
 
 use FOS\OAuthServerBundle\DependencyInjection\Security\Factory\OAuthFactory;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
